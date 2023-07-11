@@ -1,8 +1,6 @@
 # exitlag-hwid-spoofer
 
 
-NEW UPDATE!!!: https://www.youtube.com/watch?v=4-63aHkJrR8
-
 
 Requirements:
 
